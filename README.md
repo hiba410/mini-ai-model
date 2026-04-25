@@ -25,3 +25,21 @@ This project demonstrates the complete AI pipeline:
 ---
 
 ## 📂 Project Structure
+mini-ai-project/
+│
+├── app.py # Streamlit web app
+├── train_model.py # Model training script
+├── spam_model.pkl # Trained model file
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/mini-ai-project.git
+cd mini-ai-project
